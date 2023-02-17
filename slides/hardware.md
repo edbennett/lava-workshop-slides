@@ -25,7 +25,7 @@ Plus separate considerations for:
 
 ---
 
-# Syllabus
+# Proposed syllabus
 
 -
 
