@@ -145,3 +145,80 @@ Plus separate considerations for:
 ## Existing material: Storage
 
 - tbc
+
+---
+
+# Other questions
+
+-
+
+## Overlaps
+
+- Quantum computing
+  - Aim for material to connect but not overlap
+- Hardware for machine learning
+  - Material should connect with/form part of both streams
+- Reproducibility
+  - Both likely to benefit from some Carpentries material
+- Algorithms
+  - Hardware design affects choice of algorithm
+  - Material should dovetail
+
+-
+
+## Other communities
+
+- The Carpentries
+  - Introductory software skills for researchers
+- DiRAC, ExCALIBUR, PRACE, other HPC initiatives
+
+-
+
+## Learning objectives: "Beginner"
+
+All researchers should be able to:
+
+- Connect to HPC resources securely
+- Compile the software they need
+  - With relatively optimal compilation options
+- Submit their workloads to scheduler on an appropriate machine
+- Choose relatively optimal choices for run options
+  to make best use of the machine,
+  e.g.
+  - Parallelisation
+  - Process placement
+  - File locations
+
+-
+
+## Learning objectives: "advanced"
+
+Experienced researchers with specific need should be able to:
+
+- Write software that is robust, scalable, and efficient,
+  maximizing performance per cycle/joule/currency unit
+- Identify aspects of existing software
+  that require adapting to take better advantage of available performance
+
+-
+
+## Exercises with code and data
+
+"Would homeworks or exercises with code or data be useful 
+to present new ideas in your topic?"
+
+Yes.
+
+-
+
+## Prerequisites
+
+- Carpentries material is designed to teach from scratch;
+  few prerequisites
+- Access to HPC for hands-on learning
+
+-
+
+## Other possible contributors
+
+- Peter Boyle and team have significant expertise in this area

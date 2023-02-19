@@ -278,5 +278,58 @@ Examples may benefit from being made more lattice-specific
 - Discussion on styling plots in
   [Research Software Engineering with Python (Irving et al.)][rse-book]
 
+
+# Other questions
+
+-
+
+## Overlaps
+
+- Statistical analysis
+  - Such analysis must be reproducible
+  - Such analysis should be published
+- Hardware
+  - Both likely to benefit from some Carpentries material
+
+-
+
+## Other communities/possible contributors
+
+- ILDG (focus on gauge configuration sharing and provenance)
+- PUNCH4NFDI (includes work on ILDG but also work on analysis workflows)
+- NI4OS (wider project)
+- The Carpentries (focus on software skills for researchers)
+
+-
+
+## "Beginner" vs "Advanced"
+
+- Tricky distinction to make
+- New researchers need to learn relevant topics
+  - E.g. Those not generating configurationsdo not need to learn that material
+- Most topics in each area are needed for all researchers looking to publish
+- Potential approach:
+  start prescriptive, then develop more context to enable decision making
+
+-
+
+## Exercises with code and data
+
+"Would homeworks or exercises with code or data be useful 
+to present new ideas in your topic?"
+
+Yes.
+
+-
+
+## Prerequisites
+
+- Difficult to engage with material before learners are producing their own data
+- But don't want students to progress so far as to develop bad habits
+- Integrating learning this topic with students' initial exploratory projects could solve this
+- May also change as more data and workflows become open
+- Assumption of already knowing a programming language
+  - Software Carpentry teaches a language from scratch
+
 [publishing-analysis]: https://edbennett.github.io/publishing-analysis
 [rse-book]: https://merely-useful.tech/py-rse/
