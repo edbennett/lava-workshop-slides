@@ -36,7 +36,7 @@ Plus separate considerations for:
 - GPUs, etc.
 - Interconnects
 - Storage
-- [Quantum computers $\rightarrow$ Thursday session]
+- [Quantum computers $\rightarrow$ Friday session]
 
 -
 
