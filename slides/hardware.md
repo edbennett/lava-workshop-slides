@@ -23,6 +23,16 @@ Plus separate considerations for:
 - Machine learning
 - Quantum computing/simulation
 
+-
+
+## Current hardware landscape
+
+- A lot of CPU-based HPC
+- GPUs becoming standard for new deployments
+  - Performance per watt
+  - Performance per currency unit
+- Other accelerators becoming available
+
 ---
 
 # Proposed syllabus
