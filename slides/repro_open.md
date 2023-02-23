@@ -1,3 +1,4 @@
+<!-- .slide: data-background-iframe="dist/theme/assets/section-header-volcano-dormant.html" -->
 # Context
 
 -
@@ -79,6 +80,7 @@ It is much _easier_ than the alternative!
 
 ---
 
+<!-- .slide: data-background-iframe="dist/theme/assets/section-header-volcano-erupt.html" data-background-color="DarkBlue"-->
 # Proposed syllabus
 
 -
@@ -202,6 +204,7 @@ It is much _easier_ than the alternative!
 
 ---
 
+<!-- .slide: data-background-image="dist/theme/assets/section-header-grey.png" -->
 # Existing material
 
 -
@@ -274,6 +277,7 @@ Examples may benefit from being made more lattice-specific
 
 ---
 
+<!-- .slide: data-background-image="dist/theme/assets/section-header-blue.png" data-background-color="DarkBlue"-->
 # Other questions
 
 -
