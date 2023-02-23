@@ -21,9 +21,9 @@ Including, but not limited to:
 - Public funding $\Rightarrow$ Public results <!-- .element: class="fragment fade-in" data-fragment-index="2" -->
 - Funders, journals, and institutions say so <!-- .element: class="fragment fade-in" data-fragment-index="3" -->
 
-Researchers starting out in the field today will have significantly higher expectations placed on them for open science than was previously the case.
+Researchers starting out in the field today will have significantly higher expectations placed on them for open science than was previously the case. <!-- .element: class="fragment fade-in" data-fragment-index="4" -->
 
-We need to prepare them for this!
+We need to prepare them for this! <!-- .element: class="fragment fade-in" data-fragment-index="4" -->
 
 -
 
@@ -221,36 +221,30 @@ It is much _easier_ than the alternative!
 
 ## Existing material: Open software development
 
-- [Version control from Software Carpentry][git-novice]
+- [Version control from Software Carpentry](https://swcarpentry.github.io/git-novice)
 - GitHub has their own tutorial material
 - A couple of (Python-specific) workshop courses on automated testing:
-  [1][bristol-testing] [2][incubator-testing]
+  [1](https://edbennett.github.io/python-testing-ci) [2](https://carpentries-incubator.github.io/python-testing/)
 - Agile techniques
 
 Most topics also covered in
-[Research Software Engineering with Python (Irving et al.)][rse-book]
+[Research Software Engineering with Python (Irving et al.)](https://merely-useful.tech/py-rse/)
 
 Examples may benefit from being made more lattice-specific
-
-[bristol-testing]: https://edbennett.github.io/python-testing-ci
-[git-novice]: https://swcarpentry.github.io/git-novice
-[incubator-testing]: https://carpentries-incubator.github.io/python-testing/
 
 -
 
 ## Existing material: Open workflows
 
-- [Carpentries-style lesson contains some relevant material][publishing-analysis]
+- [Carpentries-style lesson contains some relevant material](https://edbennett.github.io/publishing-analysis)
 
 -
 
 ## Existing material: Reproducibility: Common aspects
 
-- Some aspects of containers and environment specification covered in [this workshop][publishing-analysis]
-- [More Carpentries Incubator material on containers][incubator-docker]
+- Some aspects of containers and environment specification covered in [this workshop](https://edbennett.github.io/publishing-analysis)
+- [More Carpentries Incubator material on containers](https://carpentries-incubator.github.io/docker-introduction/)
   (a more balanced take may also be useful)
-
-[incubator-docker]: https://carpentries-incubator.github.io/docker-introduction/
 
 -
 
@@ -269,15 +263,16 @@ Examples may benefit from being made more lattice-specific
 ## Existing material: Reproducible analysis
 
 - Guidance on workflow managers is in preparation
-- Some guidance on removing manual steps in [this workshop][publishing-analysis]
+- Some guidance on removing manual steps in [this workshop](https://edbennett.github.io/publishing-analysis)
 
 -
 
 ## Existing material: Reproducible presentation
 
 - Discussion on styling plots in
-  [Research Software Engineering with Python (Irving et al.)][rse-book]
+  [Research Software Engineering with Python (Irving et al.)](https://merely-useful.tech/py-rse/)
 
+---
 
 # Other questions
 
@@ -330,6 +325,3 @@ Yes.
 - May also change as more data and workflows become open
 - Assumption of already knowing a programming language
   - Software Carpentry teaches a language from scratch
-
-[publishing-analysis]: https://edbennett.github.io/publishing-analysis
-[rse-book]: https://merely-useful.tech/py-rse/
