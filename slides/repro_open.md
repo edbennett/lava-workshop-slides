@@ -284,7 +284,7 @@ Examples may benefit from being made more lattice-specific
 
 ## Overlaps
 
-- Statistical analysis
+- Data analysis
   - Such analysis must be reproducible
   - Such analysis should be published
 - Hardware
